@@ -4,11 +4,11 @@ Data Analysis Project<br>
   -end:
 
 #Curriculum
--NumPy
--Pandas
--시각화
--시계열
--Statsmodels를 이용한 시계열 자료 분석
--일반 예측모델
--딥러닝
--페이스북의 Prophet
+-NumPy<br>
+-Pandas<br>
+-시각화<br>
+-시계열<br>
+-Statsmodels를 이용한 시계열 자료 분석<br>
+-일반 예측모델<br>
+-딥러닝<br>
+-페이스북의 Prophet<br>
